@@ -12,14 +12,11 @@ Jira (Task & issue tracking)
 Confluence (Documentation)
 GitHub (Version control)
 Jira Board:
-Add your Jira board link here: 👉 Jira Board
+Add your Jira board link here:  Jira Board-> https://swaroopms739.atlassian.net/jira/projects?page=1&sortKey=name&sortOrder=ASC&types=software%2Cbusiness
 
 Project Links:
 Jira Board (Tasks & Issues)
 Confluence Project Documentation
 GitHub Repository
 Confluence Documentation:
-Add your Confluence link here: 👉 Confluence Project Page
-
-How to Run
-Install dependencies:
+Add your Confluence link here:  Confluence Project Page-> https://swaroopms739.atlassian.net/wiki/spaces/SP/pages/524292/Railway+Reservation+System
